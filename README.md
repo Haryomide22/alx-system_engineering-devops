@@ -1,1 +1,1 @@
-echo ‘this repository contains solutions to shell tasks’
+‘this repository contains solutions to shell tasks’
